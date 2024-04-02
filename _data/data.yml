@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Why me?
     summary: |
-      Highly motivated and dedicated Certified Personal Trainer with a strong background in medical science and a passion for helping clients achieve their fitness goals. Known for providing personalized training programs tailored to individual needs and abilities, along with exceptional customer service and sales skills. Working knowledge of Chinese and certifications in nutrition and functional aging makes me a desireable personal trainer.
+      Highly motivated and dedicated Certified Personal Trainer with a strong background in medical science and a passion for helping clients achieve their fitness goals. Known for providing personalized training programs tailored to individual needs and abilities, along with exceptional customer service and sales skills.
 
 education:
     title: Education
@@ -57,7 +57,6 @@ education:
 experiences:
     title: Experiences
     info:
-
       - role: Personal Trainer
         time: 2020 - Present
         company: Freelance
@@ -70,7 +69,9 @@ experiences:
         time: Jan - Mar 2020
         company: LA Fitness
         details: |
+          - Conduct fitness assessments for clients to determine their current fitness levels, goals, and any limitations.
           - Train clients in functional excercises
+          - Provide hands-on instruction and guidance on proper exercise techniques, form, and equipment usage to ensure safety and effectiveness.
 
       - role: Personal Trainer
         time: 2018 - 2020
@@ -129,9 +130,8 @@ skills:
       - name:  Strong knowledge of anatomy, physiology, and exercise science principles
       - name: Excellent communication and interpersonal skills
       - name: Motivational coaching and client engagement
-      - name: Outstanding interpersonal and relationship-building abilities
-      - name: Proficient in CRM software and Microsoft Office suite
       - name: Sales experience in promoting training packages and additional services
+      - name: Languages- English and Mandarin
       - name: Freelance fitness and cosplay modeling
       - name: Experienced in bouldering, dragonboating, and crew 
 
