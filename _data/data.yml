@@ -58,7 +58,7 @@ education:
         university: B.Sc., Biology and Chemistry
         time: 2007 - 2010
         details: |
-           Magna cum laude with Thesis Honors,  
+           Magna cum laude with Thesis Honors
            Capstone project in 3D design,  
            President, Chinese Students Association
 
@@ -122,6 +122,15 @@ experiences:
           - Generated revenue and promoted membership growth at Boston Athletic Club, effectively communicating the benefits of fitness programs, conducting facility tours, and closing sales to drive membership sign-ups and achieve sales targets
           - Efficiently managing check-ins, processing memberships, and addressing member inquiries to ensure a positive experience and promote a welcoming environment.
           - Managed inventory of front desk supplies and equipment, coordinating orders and ensuring availability of necessary items.
+
+      - role: Chemist
+        time: 2010 - 2012
+        company: Tufts University, Medford MA
+        details: |
+          - Preparing chemical mixtures utilizing precise measurements and ensuring consistent quality.
+          - Maintained laboratory equipment and facilities, ensuring proper functioning, cleanliness, and compliance with safety protocols and regulatory standards.
+          - Assisted in the training and supervision of undergraduate and graduate students involved in research activities, providing guidance and support to foster their scientific development.
+          - Published work in prestigious scientific journal
 
 skills:
     title: Skills
