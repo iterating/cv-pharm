@@ -1,22 +1,22 @@
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jonathan "Jinn" Young
-    tagline: Mixing up conversations and cocktails with a smile
-    avatar: profile.bar.1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jonathan Young 
+    tagline: Bringing together medical knowledge, approachable support, and sales savvy to elevate clients' fitness journey with expertise and warmth
+    avatar: 
+    avatar: profile-fitness.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jyoung0696@gmail.com
-    phone: 626 662 0656
+    phone: 626 626 0656
     timezone: Pacific Time
     citizenship: US
-    website: jonathanyoungdesign.wordpress.com #do not add http://
+    website: iterating.github.io/cv-fitness #do not add http://
     linkedin: 
     xing: 
-    github: iterating
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -24,91 +24,67 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: Chinese
-          level: Professional
+    # pdf: 
 
     interests:
       title: Certifications
       info:
-        - item: RBS Alcohol Server 
-          link: 313380293
-
+        - item: Certified Personal Trainer, National Academy of Sports Medicine
+          link: 
         - item: Certified Nutrition Coach, National Academy of Sports Medicine
-          link:
-
         - item: Certified Functional Aging Specialist, Functional Aging Institute
-          link:
+        - item: Certified Functional Core and Balance, Functional Aging Institute
 
-# career-profile:
-#   title: Career Profile
-#   summary: |
-      
+career-profile:
+    title: Why me?
+    summary: |
+      Highly motivated and dedicated Certified Personal Trainer with a strong background in medical science and a passion for helping clients achieve their fitness goals. Known for providing personalized training programs tailored to individual needs and abilities, along with exceptional customer service and sales skills. Working knowledge of Chinese and certifications in nutrition and functional aging makes me a desireable personal trainer.
+
 education:
     title: Education
     info:
       - degree: Tufts University
-        university: B.Sc., Biology and Chemistry
+        university: B.Sc., Biology
         time: 2007 - 2010
         details: |
-           Magna cum laude with Thesis Honors, 
-           Capstone project in 3D design, 
-           President, Chinese Students Association
-
+          Magna cum laude with Thesis Honors
       - degree: UMass Chan Medical School
         university: Medicine
-        time: 2015 - 2019
+        time: 2015 - 2018
         details: |
-           Winner, American College of Physicians National Abstract Competition
+          Completed 3 years of medical school curriculum. Completed rotations in family medicine, surgery, orthopedics and neurology with above average and outstanding clinical evaluations.
+
 experiences:
     title: Experiences
     info:
-      - role: Professional Bartender
-        time: 2023 - Present
-        company: Luxy Craft Cocktail Bar and KTV, Arcadia CA
-        details: |
-          Energetic and customer-focused bartender with a passion for crafting unforgettable experiences through exceptional service and finely crafted cocktails. 
-          - Proven track record of creating welcoming environments and delivering personalized service to diverse clientele. 
-          - Skilled in maintaining bar cleanliness, managing inventory, and collaborating with team members to ensure seamless operations. 
-          - Adept at working in fast-paced environments while maintaining a keen attention to detail. Dedicated to continuously enhancing beverage knowledge and staying updated on industry trends. Ready to contribute dynamic bartending skills to elevate the guest experience at your establishment.
-          - RBS License 313380293
 
-      - role: Private Event Bartender
-        time: 2022 - Present
-        company: Los Angeles CA
+      - role: Personal Trainer
+        time: 2020 - Present
+        company: Freelance
         details: |
-          - Spearhead the operation of a dynamic mobile full-service bar, delivering top-tier service and entertainment at exclusive anime convention afterparties.
-          - Orchestrated the seamless service for 200 guests at the Anime Expo Westin deck afterparty, distinguished as one of the largest and most celebrated anime convention afterparties.
-          - Conceptualize and execute innovative themed drink menus, infusing creativity and excitement into each event's beverage offerings.
-          - Supervise and mentor barback staff to optimize productivity and uphold service standards during high-volume periods.
-          - Earned trust and commendations from hotel management for meticulous bar closure procedures and post-event cleanup, solidifying a reputation for reliability and professionalism.
+          - Led clients of varying skill level to achieve thier fitness and physique goals
+          - Train clients in antagonistic muscle groups for balanced physique and function
+          - Educate clients on the importance of nutrition and lifestyle factors in achieving overall health and fitness goals, offering guidance and support in making sustainable lifestyle changes.
 
-      - role: Professional Bartender
-        time: 2015-2016
-        company: Baba Sushi, Worcester MA
+      - role: Personal Trainer
+        time: Jan - Mar 2020
+        company: LA Fitness
         details: |
-          "Modern and hip bar, choosing from an extensive selection of sakes or sipping on meticulously crafted specialty martinis. Baba Sushi offers a total sensory feast."
-          - Engage with patrons in a personable and attentive manner, providing recommendations, sharing knowledge about various spirits and cocktails, and customizing drinks to individual preferences.
-          Maintain a well-organized and clean bar area, adhering to health and safety regulations and ensuring all equipment is properly maintained for optimal functionality.
-          - Collaborate with kitchen staff to coordinate food and beverage service, ensuring seamless communication and timely delivery of orders to enhance overall guest satisfaction.
-          - Handle cash and credit transactions accurately and efficiently, balancing cash drawers and maintaining strict adherence to cash-handling procedures.
+          - Train clients in functional excercises
 
-      - role: Barback
-        time: 2014-2015
-        company: Baba Sushi, Worcester MA
+      - role: Personal Trainer
+        time: 2018 - 2020
+        company: Boston Athletic Club
         details: |
-        - Ensure optimal bar functionality by consistently stocking ice, liquor, wine, and beer to meet customer demand.
-        - Assist with opening and closing procedures, including restocking garnishes, straws, napkins, clean towels, and glassware to maintain a well-organized bar setup.
-        - Uphold cleanliness standards by sanitizing surfaces, sweeping, mopping, removing soiled glassware, scrubbing coolers and storage areas, and emptying trash to create a hygienic and inviting environment for guests.
-        - Provide exceptional customer service during peak hours by promptly taking orders, preparing drinks, bussing tables, opening tabs, and efficiently processing payments to enhance the overall guest experience.
-
+          - Conduct comprehensive fitness assessments for clients to determine their current fitness levels, goals, and any limitations.
+          - Develop individualized exercise programs tailored to clients' specific needs, preferences, and fitness goals.
+          - Provide hands-on instruction and guidance on proper exercise techniques, form, and equipment usage to ensure safety and effectiveness.
+          - Motivate and inspire clients through positive reinforcement, goal-setting, and accountability measures to help them achieve and exceed their fitness goals.
+          - Monitor client progress regularly, track results, and adjust workout plans as needed to maximize effectiveness and client satisfaction.
+          - Collaborate with club management and fellow trainers to promote fitness programs, events, and services, contributing to the overall success and growth of the club.
+          - Generated revenue and promoted membership growth, effectively communicating the benefits of fitness programs, closing sales to drive sign-ups and achieve sales targets
+          - 75% fitness training, 25% sales and administration
+ 
       - role: Front Desk Supervisor
         time: 2012 - 2013
         company: Boston Athletic Club, Boston MA
@@ -128,22 +104,41 @@ experiences:
           - Efficiently managing check-ins, processing memberships, and addressing member inquiries to ensure a positive experience and promote a welcoming environment.
           - Managed inventory of front desk supplies and equipment, coordinating orders and ensuring availability of necessary items.
 
-      - role: Designer
-        time: 2020 - Present
-        company: Young Design
+      - role: Sales Representative
+        time: 2013 - 2015
+        company: Sanova Biotechnologies
         details: |
-          - Lead the end-to-end design and development of responsive websites, prioritizing user experience and usability to meet client business objectives.
-          - Conduct comprehensive user research, creating wireframes and prototypes to validate design concepts and iterate based on feedback.
-          - Employ industry-standard design tools including Figma, Illustrator, and Photoshop to craft visually appealing and intuitive user interfaces.
-  
+          - Successfully generated leads and expanded client base through strategic prospecting and networking efforts.
+          - Developed and implemented effective sales strategies to meet and exceed sales targets, resulting in a 300% increase in revenue.
+          - Built and maintained strong relationships with clients, providing exceptional customer service and support throughout the sales process.
+          - Conducted product demonstrations and presentations to educate clients on product features, benefits, and value proposition.
+          - Negotiated contracts and closed sales deals with clients, consistently achieving high conversion rates.
+          - Collaborated with cross-functional teams to address client needs and resolve any issues or concerns in a timely manner.
+
+      - role: Competitive Dragonboater
+        time: 2018 - 2020
+        company: Boston 1 Dragon Boat Team
+        details: |
+          - Competed as a core member of the B1 Dragon Boat Team, representing the team in local, regional, and national competitions.
+          - Contributed to team success by participating and leading rigorous training sessions, including on-water practices and strength and conditioning workouts, optimizing strength and functional training with injury prevention.
+          - Achieved notable successes and awards in dragon boat competitions, highlighting dedication, skill, and competitive spirit.
+
 skills:
     title: Skills
-
     toolset:
+      - name:  Strong knowledge of anatomy, physiology, and exercise science principles
       - name: Excellent communication and interpersonal skills
+      - name: Motivational coaching and client engagement
       - name: Outstanding interpersonal and relationship-building abilities
-      - name: HTML5 & CSS
       - name: Proficient in CRM software and Microsoft Office suite
+      - name: Sales experience in promoting training packages and additional services
+      - name: Freelance fitness and cosplay modeling
+      - name: Experienced in bouldering, dragonboating, and crew 
+
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">Jonathan Young Design</a>
+    Designed by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
+
+
+# Boston Athletic Club 653 Summer St, Boston, MA 02210
