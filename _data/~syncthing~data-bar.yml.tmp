@@ -72,11 +72,13 @@ experiences:
         company: Luminarias Resturaunt
         details: |
           Energetic and customer-focused bartender with a passion for crafting unforgettable experiences through exceptional service and finely crafted cocktails. 
-          - Customer Engagement: Proven track record of creating welcoming environments and delivering personalized service to diverse clientele. 
+          - Proven track record of creating welcoming environments and delivering personalized service to diverse clientele. 
           - Mixology Expertise: Utilize advanced mixology techniques, such as muddling, shaking, stirring, and layering, to create cocktails with complex flavors and textures. Showcase expertise in spirits, liqueurs, bitters, syrups, and other ingredients to craft exceptional drinks.
-          - Menu Knowledge: Possess a thorough understanding of the beverage menu, including ingredients, flavor profiles, and pairing recommendations. Educate guests about different spirits, wines, and cocktails, enhancing their dining experience and promoting sales.
-          - Bar Management: Skilled in maintaining bar cleanliness, managing inventory, and collaborating with team members to ensure seamless operations. 
-          - Team Collaboration: Adept at working in fast-paced environments while maintaining a keen attention to detail. Dedicated to continuously enhancing beverage knowledge and staying updated on industry trends. Ready to contribute dynamic bartending skills to elevate the guest experience at your establishment.
+          -Menu Knowledge: Possess a thorough understanding of the beverage menu, including ingredients, flavor profiles, and pairing recommendations. Educate guests about different spirits, wines, and cocktails, enhancing their dining experience and promoting sales.
+
+
+          - Skilled in maintaining bar cleanliness, managing inventory, and collaborating with team members to ensure seamless operations. 
+          - Adept at working in fast-paced environments while maintaining a keen attention to detail. Dedicated to continuously enhancing beverage knowledge and staying updated on industry trends. Ready to contribute dynamic bartending skills to elevate the guest experience at your establishment.
           - RBS License 313380293
         
 
@@ -140,7 +142,7 @@ experiences:
           - Managed inventory of front desk supplies and equipment, coordinating orders and ensuring availability of necessary items.
 
       - role: Chemist
-        time:
+        time: 2010 - 2012
         company: Tufts University, Medford MA
         details: |
           - Preparing chemical mixtures utilizing precise measurements and ensuring consistent quality.
@@ -159,4 +161,7 @@ skills:
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">Jonathan Young Design</a>
 
-
+# Luxy  400 S Baldwin Ave. Ste 2225. Arcadia, CA 91007  (626) 348-8856
+# Baba Sushi 309 Park Ave Worcester, MA 01609 508-752-8822 Wilson Wang
+# Boston Athletic Club 653 Summer St, Boston, MA 02210  (617) 269-4300
+# Redline DTLA 131 E 6th St, Los Angeles, CA 90014 (213) 935-8391
