@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Jonathan "Jinn" Young
-    tagline: Mixing up conversations and cocktails with a smile
+    tagline: Personable high volume bartender with craft cocktail training 
     avatar: profile.bar.1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -13,7 +13,7 @@ sidebar:
     phone: 626 662 0656
     timezone: Pacific Time
     citizenship: US
-    website: jonathanyoungdesign.wordpress.com #do not add http://
+    website:  #do not add http://
     linkedin: 
     xing: 
     github: iterating
@@ -58,18 +58,42 @@ education:
         university: B.Sc., Biology and Chemistry
         time: 2007 - 2010
         details: |
-           Magna cum laude with Thesis Honors, 
-           Capstone project in Computer Aided Design,  
-           President of Chinese Students Association
+           Magna cum laude with Thesis Honors
+           Capstone project in 3D design,  
+           President, Chinese Students Association
 
 
 
 experiences:
     title: Experiences
     info:
+
+
+      - role: Private Event Bartender and Manager
+        time: 2022 - Present
+        company: Los Angeles CA
+        details: |
+          - High volume, fast paced events prioritizing speed and quality of service during critical hours of the night. I believe my preperation and high energy sets me up for success in this role 
+          - Spearhead the operation of dynamic mobile full-service bar, delivering service and entertainment at local festivals and anime convention afterparties.
+          - Conceptualize and execute innovative themed drink menus, infusing creativity and excitement into each event's beverage offerings.
+          - Supervise and mentor barback staff to optimize productivity and uphold service standards during high-volume periods.
+          - Earned trust and commendations from hotel management for meticulous bar closure procedures and post-event cleanup, solidifying a reputation for reliability and professionalism.
+          Oversaw, event, managed, and ran drinks service at
+          - Parkcon at Plaza de Cesar Chavez, San Jose in May
+            - Attendance 600-800/night
+          - Anime Expo Rooftop Afterparty at Westin Los Angeles in July
+            - Attendance 500/night
+          Ran bar as part of drinks team at 
+          - Future Lovers Festival at Beehive, Los Angeles in June 
+            - Pride LA official event, total attendance 1,200 
+          - Summertramp Festival at Arts District, Los Angeles in June 
+            - Pride LA event, total attendance 1,000
+
+
+
       - role: Professional Bartender
-        time: 2024 - Present
-        company: Luminarias Resturaunt, Los Angeles
+        time: 2023 - Present
+        company: Luminarias Resturaunt
         details: |
           Energetic and customer-focused bartender with a passion for crafting unforgettable experiences through exceptional service and finely crafted cocktails. 
           - Customer Engagement: Proven track record of creating welcoming environments and delivering personalized service to diverse clientele. 
@@ -81,7 +105,7 @@ experiences:
         
 
       - role: Mixologist
-        time: 2023 - 2024
+        time: 2022 - 2023
         company: Luxy Craft Cocktail Bar and KTV, Arcadia CA
         details: |
           As a Mixologist at Luxy Craft Cocktail Bar and KTV, I bring creativity, expertise, and a passion for mixology to the bar team. In this dynamic role, I am responsible for crafting unique and innovative cocktails that elevate the guest experience and contribute to the success of our bar program.
@@ -91,18 +115,8 @@ experiences:
           - Customer Engagement: Engage with guests to understand their preferences and provide personalized recommendations based on their tastes. Offer insights into the ingredients and techniques used in our cocktails to enhance the guest experience and promote customer satisfaction.
           - Quality Control: Ensure that all cocktails meet Luxy Craft Cocktail Bar and KTV's standards of quality, consistency, and presentation. Conduct taste tests, adjust recipes as needed, and maintain cleanliness and organization in the bar area to uphold our reputation for excellence.
 
-      - role: Private Event Bartender
-        time: 2022 - Present
-        company: Spin and Sip, Los Angeles CA
-        details: |
-          - Spearhead the operation of a dynamic mobile full-service bar, delivering top-tier service and entertainment at exclusive anime convention afterparties.
-          - Orchestrated the seamless service for 200 guests at the Anime Expo Westin deck afterparty, distinguished as one of the largest and most celebrated anime convention afterparties.
-          - Conceptualize and execute innovative themed drink menus, infusing creativity and excitement into each event's beverage offerings.
-          - Supervise and mentor barback staff to optimize productivity and uphold service standards during high-volume periods.
-          - Earned trust and commendations from hotel management for meticulous bar closure procedures and post-event cleanup, solidifying a reputation for reliability and professionalism.
-
-      - role: Professional Bartender
-        time: 2015 - 2016
+      - role: Bartender
+        time: 2014-2017
         company: Baba Sushi, Worcester MA
         details: |
           "Modern and hip bar, choosing from an extensive selection of sakes or sipping on meticulously crafted specialty martinis. Baba Sushi offers a total sensory feast."
@@ -112,7 +126,7 @@ experiences:
           - Handle cash and credit transactions accurately and efficiently, balancing cash drawers and maintaining strict adherence to cash-handling procedures.
 
       - role: Barback
-        time: 2014 - 2015
+        time: 2013-2014
         company: Baba Sushi, Worcester MA
         details: |
           - Ensure optimal bar functionality by consistently stocking ice, liquor, wine, and beer to meet customer demand.
@@ -132,7 +146,7 @@ experiences:
           - Acted as a liaison between front desk staff and management, communicating operational updates, policy changes, and member feedback.
 
       - role: Chemist
-        time:
+        time: 
         company: Tufts University, Medford MA
         details: |
           - Preparing chemical mixtures utilizing precise measurements and ensuring consistent quality.
@@ -151,4 +165,7 @@ skills:
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">Jonathan Young Design</a>
 
-
+# Luxy  400 S Baldwin Ave. Ste 2225. Arcadia, CA 91007  (626) 348-8856
+# Baba Sushi 309 Park Ave Worcester, MA 01609 508-752-8822 Wilson Wang
+# Boston Athletic Club 653 Summer St, Boston, MA 02210  (617) 269-4300
+# Redline DTLA 131 E 6th St, Los Angeles, CA 90014 (213) 935-8391
