@@ -44,7 +44,7 @@ sidebar:
         - item: Certified Nutrition Coach, National Academy of Sports Medicine
           link:
 
-        - item: Certified Functional Aging Specialist, Functional Aging Institute
+        - item: 
           link:
 
 # career-profile:
@@ -55,14 +55,10 @@ education:
     title: Education
     info:
       - degree: Tufts University
-        university: B.Sc., Biology and Chemistry
-        time: 2007 - 2010
+        university: B.Sc.
+        time: 
         details: |
            Magna cum laude with Thesis Honors
-           Capstone project in 3D design,  
-           President, Chinese Students Association
-
-
 
 experiences:
     title: Experiences
@@ -93,7 +89,7 @@ experiences:
 
       - role: Professional Bartender
         time: 2023 - Present
-        company: Luminarias Resturaunt
+        company: Luminarias Resturaunt, LA
         details: |
           Energetic and customer-focused bartender with a passion for crafting unforgettable experiences through exceptional service and finely crafted cocktails. 
           - Customer Engagement: Proven track record of creating welcoming environments and delivering personalized service to diverse clientele. 
@@ -144,15 +140,6 @@ experiences:
           - Collaborated with management to develop and implement strategies for improving member satisfaction and retention.
           - Assisted in administrative tasks such as maintaining member records, processing payments, and resolving billing inquiries.
           - Acted as a liaison between front desk staff and management, communicating operational updates, policy changes, and member feedback.
-
-      - role: Chemist
-        time: 
-        company: Tufts University, Medford MA
-        details: |
-          - Preparing chemical mixtures utilizing precise measurements and ensuring consistent quality.
-          - Maintained laboratory equipment and facilities, ensuring proper functioning, cleanliness, and compliance with safety protocols and regulatory standards.
-          - Assisted in the training and supervision of undergraduate and graduate students involved in research activities, providing guidance and support to foster their scientific development.
-          - Published work in prestigious scientific journal
 
 skills:
     title: Skills
