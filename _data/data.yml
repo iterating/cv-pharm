@@ -11,17 +11,15 @@ sidebar:
     email: jyoung0696@gmail.com
     phone: 626 626 0656
     timezone: Pacific Time
-    citizenship: US
+    citizenship: US Citizen
     website: iterating.github.io/cv-pharm #do not add http://
     linkedin: 
-    xing: 
     github: iterating
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    
     goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: 
 
@@ -64,12 +62,11 @@ education:
         time: 2015 - 2019
         details: |
           - Winner, American College of Physicians National Abstract Competition
-          
-              
-            - Publications:
-                Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
+                        
+          - Publications:
+              Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
 
-                A Chemokine Protective Shield for Islet Transplantation, Digestive Disease Interventions, Boston, MA
+              A Chemokine Protective Shield for Islet Transplantation, Digestive Disease Interventions, Boston, MA
 
 
 experiences:
@@ -124,10 +121,16 @@ experiences:
         time: 2010-2012
         company: Massachusetts General Hospital Boston MA 
         details: |
-          Investigate use of chemokine based local immunosuppression in islet transplantation, leading to successful publication. 
+          Investigated the efficacy of alginate microbeads incorporating CXCL12 in supporting long-term allo- and xenoislet transplantation without the need for systemic immune suppression.
+              __Key Achievements:__
+                Demonstrated a significant reduction in foreign body response (FBR) in nonhuman primate models, assessed through clinical observations and blood analyses over a six-month period post-implantation.
+                  Achieved extended euglycemia for over 300 days in murine models with CXCL12-encapsulated islets, compared to controls without CXCL12.
+                  Elucidated the mechanism of action of CXCL12 in repelling effector T cells while attracting regulatory T cells, promoting immune tolerance and reducing inflammation at the implantation site.
           - Present reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
           - Creator of 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency. 
-          - Publication: [Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression.](https://pubmed.ncbi.nlm.nih.gov/25693473/) **American Journal of Transplantation**, 2015, DOI 10.1111/ajt.13049
+          - Publication: 
+
+              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. **American Journal of Transplantation**, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
 skills:
     title: Skills
