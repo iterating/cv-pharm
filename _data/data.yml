@@ -4,18 +4,18 @@ sidebar:
 
     # Profile information
     name: Jonathan Young 
-    tagline: Resourceful and Adaptable Tech Professional
-    avatar: # Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Resourceful and Adaptable Biology Professional
+    avatar:  profile.professional.1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jyoung0696@gmail.com
     phone: 626 626 0656
     timezone: Pacific Time
     citizenship: US
-    website: iterating.github.io/cv-it #do not add http://
+    website: iterating.github.io/cv-pharm #do not add http://
     linkedin: 
     xing: 
-    github: Iterating
+    github: iterating
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -52,22 +52,25 @@ education:
         time: 2007 - 2010
         details: |
           - Magna cum laude with Thesis Honors in Biology and Chemistry
-          - Thesis:
+          - Thesis: |
               Chromatography-free Solid Phase Oligosaccharide Synthesis.
-                https://dl.tufts.edu/concern/pdfs/4x51hw10v
+                [https://dl.tufts.edu/concern/pdfs/4x51hw10v](https://dl.tufts.edu/concern/pdfs/4x51hw10v)
 
-          - Publications:
-              Direct O-glycosidation of resin bound thioglycosides. Organic and Bimolecular Chemistry, 2012.
-                DOI: 10.1039/c2ob06883d  https://pubmed.ncbi.nlm.nih.gov/22261792/
+          - Publications: |
+              Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
+                DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
       - degree: UMass Chan Medical School
-        university: Medicine
+        university: M.D. Candidate
         time: 2015 - 2019
         details: |
           - Winner, American College of Physicians National Abstract Competition
           
-            "Winning Abstracts: Pretending to Be the Great Pretender." *ACP Impact*, October 2016. Available at: [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender).
+              
+            - Publications:
+                Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
 
-            https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender
+                A Chemokine Protective Shield for Islet Transplantation, Digestive Disease Interventions, Boston, MA
+
 
 experiences:
     title: Experiences
