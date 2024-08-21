@@ -54,9 +54,7 @@ education:
               Chromatography-free Solid Phase Oligosaccharide Synthesis.
                 [https://dl.tufts.edu/concern/pdfs/4x51hw10v](https://dl.tufts.edu/concern/pdfs/4x51hw10v)
 
-          - Publications: |
-              Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
-                DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
+
       - degree: UMass Chan Medical School
         university: M.D. Candidate
         time: 2015 - 2019
@@ -72,6 +70,33 @@ education:
 experiences:
     title: Experiences
     info:
+
+      - role: Researcher Assistant
+        time: 2009-2011
+        company: Tufts University Medford MA
+        details: |
+
+          Developed and optimized a direct O-glycosidation method for resin-bound thioglycosides, significantly enhancing the efficiency of glycoside synthesis. This work introduced improved reaction conditions and increased yields, advancing techniques in carbohydrate chemistry. The method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications.
+          
+          - Publications: |
+
+              Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
+                DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
+
+      - role: Researcher
+        time: 2011-2013
+        company: Massachusetts General Hospital Boston MA 
+        details: |
+          Investigated the efficacy of alginate microbeads incorporating CXCL12 in supporting long-term allo- and xenoislet transplantation without the need for systemic immune suppression.
+
+          __Key Achievements:__
+          - Demonstrated a significant reduction in foreign body response (FBR) in nonhuman primate models, assessed through clinical observations and blood analyses over a six-month period post-implantation.
+          - Achieved extended euglycemia for over 300 days in murine models with CXCL12-encapsulated islets, compared to controls without CXCL12.
+          - Elucidated the mechanism of action of CXCL12 in repelling effector T cells while attracting regulatory T cells, promoting immune tolerance and reducing inflammation at the implantation site.
+          - Presented reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
+          Publication: 
+              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. **American Journal of Transplantation**, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
+
       - role: Freelance Website Developer
         time: 2020 - Present
         company: Young Design
@@ -117,20 +142,6 @@ experiences:
           - Manage photography and videography equipment, ensuring their availability and functionality for educational purposes.
           - Demonstrated exceptional cross-functional collaboration, working closely with teams to assess needs, develop solutions, and deliver exceptional support.
 
-      - role: Researcher
-        time: 2010-2012
-        company: Massachusetts General Hospital Boston MA 
-        details: |
-          Investigated the efficacy of alginate microbeads incorporating CXCL12 in supporting long-term allo- and xenoislet transplantation without the need for systemic immune suppression.
-              __Key Achievements:__
-                Demonstrated a significant reduction in foreign body response (FBR) in nonhuman primate models, assessed through clinical observations and blood analyses over a six-month period post-implantation.
-                  Achieved extended euglycemia for over 300 days in murine models with CXCL12-encapsulated islets, compared to controls without CXCL12.
-                  Elucidated the mechanism of action of CXCL12 in repelling effector T cells while attracting regulatory T cells, promoting immune tolerance and reducing inflammation at the implantation site.
-          - Present reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
-          - Creator of 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency. 
-          - Publication: 
-
-              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. **American Journal of Transplantation**, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
 skills:
     title: Skills
