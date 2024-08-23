@@ -62,7 +62,7 @@ education:
         details: |
           - Winner, American College of Physicians National Abstract Competition
                         
-          - Publications:
+          - __Publications:__
               Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
 
               A Chemokine Protective Shield for Islet Transplantation, Digestive Disease Interventions, Boston, MA
@@ -77,7 +77,7 @@ experiences:
         details: |
            - Conducted experiments using flow cytometry, histology, and in vivo mouse models to investigate the efficacy of CXCR3-depleting antibodies in preventing and reversing vitiligo, contributing to insights into immune modulation and potential therapeutic strategies for autoimmune diseases.
 
-            Techniques: 
+            __Techniques:__
             - Flow Cytometry to analyze immune cell populations, particularly the depletion of CXCR3-expressing T cells in the skin and blood
             - Histology and Immunohistochemistry to examine skin tissue for melanocyte presence and immune cell infiltration, providing insights into the cellular changes induced by antibody treatment.
             - Western Blotting to detect CXCR3 within skin and immune cells.
@@ -90,14 +90,14 @@ experiences:
         details: |
           - Performed experiments involving alginate microbead fabrication, islet isolation, and in vivo transplantation models to assess the efficacy of CXCL12-incorporated encapsulants in supporting long-term islet graft survival without systemic immune suppression, advancing innovative approaches to transplantation immunology. Documenting and presenting multidimensional quantitative data clearly and effectively for publication and peer review.
 
-          Techniques: 
+          __Techniques:__ 
           - Histology and Immunohistochemistry to examine transplanted tissue for immune cell infiltration, islet survival, and alginate bead integrity over time.
           - Flow Cytometry for analyzing immune cell populations in transplanted tissue or peripheral blood to assess immune response and effectiveness of immune modulation.
           - ELISA for measuring cytokine and chemokine levels, including CXCL12, to evaluate the immune environment around the transplanted islets.
           - Programmed 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency 
 
 
-          - Publication: 
+          __- Publication:__
               Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
       - role: Research Assistant in Medicinal Chemistry
@@ -108,10 +108,11 @@ experiences:
 
           - Utilized NMR and Mass Spectrometry to confirm product formation and purity.
           
-          - Publication:
+          __- Publication:__
               Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
                 DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
    
+
 
 skills:
     title: Skills
