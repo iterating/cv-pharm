@@ -36,8 +36,7 @@ sidebar:
 career-profile:
     title: Why me
     summary: |
-      Adept at exploring complex scientific concepts and innovative technologies, ensuring thorough examination of prior art and patent applications. With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills, informatics proficiency, and experience in research and development, I bring a unique blend of technical expertise and critical thinking to the role of Patent Examiner. My strong communication skills and commitment to precision will enable me to effectively review applications, write comprehensive legal office actions, and contribute to a diverse and inclusive intellectual property environment
-
+      Adept at exploring and communicating complex scientific concepts and innovative technologies.  With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills, informatics proficiency, and experience in research and development, I bring a blend of technical expertise and critical thinking to the role of Patent Examiner. 
 education:
     title: Education
     info:
@@ -60,13 +59,13 @@ education:
         university: M.D. Candidate
         time: 2015 - 2019
         details: |
-          - Winner, American College of Physicians National Abstract Competition
+          - Winner, American College of Physicians National Abstract Competition. Presented case study at annual meeting of American College of Physicians.
                         
-          __Publications:__
+          **National Conference Presentations:**
 
             Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
 
-            A Chemokine Protective Shield for Islet Transplantation, Digestive Disease Interventions, Boston, MA
+            A Chemokine Protective Shield for Islet Transplantation. Digestive Disease Interventions, Boston, MA
 
 experiences:
     title: Experiences
@@ -109,7 +108,7 @@ experiences:
         details: |
           - Developed and optimized direct O-glycosidation methods for resin-bound thioglycosides, enhancing glycosylation efficiency in carbohydrate chemistry research. The method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications. 
 
-          - Utilized NMR and Mass Spectrometry to confirm product formation and purity.
+          - Utilized analytical techniques including NMR and Mass Spectrometry to confirm product formation and purity.
           
           __Publication:__
 
@@ -120,14 +119,13 @@ skills:
     title: Skills
 
     toolset:
-      - name: Cell culture
-      - name: Immunoflouresence
-      - name: Viral immunology
       - name: Histology and Immunohistochemistry
+      - name: Cell culture
+      - name: Viral immunology
       - name: ELISA
       - name: Protein expression and purification
       - name: HPLC
-      - name: SPSS and R statistical analysis
+      - name: Statistical analysis
       - name: Project management
 
 
