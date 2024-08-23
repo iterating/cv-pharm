@@ -71,17 +71,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Research Assistant in Medicinal Chemistry
-        time: 2009-2011
-        company: Tufts University Medford MA
+      - role: Research Assistant in Immunology
+        time: 2015-2016
+        company:  Autoimmune Therapeutics Institute at UMass Medical School, Worcester MA 
         details: |
-          - Developed and optimized direct O-glycosidation methods for resin-bound thioglycosides, enhancing glycosylation efficiency in carbohydrate chemistry research. The method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications. 
+           - Conducted experiments using flow cytometry, histology, and in vivo mouse models to investigate the efficacy of CXCR3-depleting antibodies in preventing and reversing vitiligo, contributing to insights into immune modulation and potential therapeutic strategies for autoimmune diseases.
 
-          - Utilized NMR and Mass Spectrometry to confirm product formation and purity.
-          
-          - Publication:
-              Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
-                DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
+            Techniques: 
+            - Flow Cytometry to analyze immune cell populations, particularly the depletion of CXCR3-expressing T cells in the skin and blood
+            - Histology and Immunohistochemistry to examine skin tissue for melanocyte presence and immune cell infiltration, providing insights into the cellular changes induced by antibody treatment.
+            - Western Blotting to detect CXCR3 within skin and immune cells.
+            - ELISA to to measure cytokine levels and immune response markers in serum and tissue samples.
+
 
       - role: Research Assistant in Vaccine Immunology
         time: 2011-2013
@@ -97,40 +98,20 @@ experiences:
 
 
           - Publication: 
-              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. **American Journal of Transplantation**, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
+              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
-      - role: Research Assistant in Immunology
-        time: 2011-2013
-        company:  Autoimmune Therapeutics Institute at UMass Medical School, Worcester MA 
+      - role: Research Assistant in Medicinal Chemistry
+        time: 2009-2011
+        company: Tufts University Medford MA
         details: |
-           - Conducted experiments using flow cytometry, histology, and in vivo mouse models to investigate the efficacy of CXCR3-depleting antibodies in preventing and reversing vitiligo, contributing to insights into immune modulation and potential therapeutic strategies for autoimmune diseases.
+          - Developed and optimized direct O-glycosidation methods for resin-bound thioglycosides, enhancing glycosylation efficiency in carbohydrate chemistry research. The method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications. 
 
-            Techniques: 
-            - Flow Cytometry to analyze immune cell populations, particularly the depletion of CXCR3-expressing T cells in the skin and blood
-            - Histology and Immunohistochemistry to examine skin tissue for melanocyte presence and immune cell infiltration, providing insights into the cellular changes induced by antibody treatment.
-            - Western Blotting to detect CXCR3 within skin and immune cells.
-            - ELISA to to measure cytokine levels and immune response markers in serum and tissue samples.
-
-      - role: Research Assistant in Clinical Proteomics
-        time: 2011-2013
-        company: Clinical Proteomics Lab, Boston Veterans Association Hospital, Boston University School of Medicine. 
-        details: |
-          - Melanoma Immunotherapy gitlab
-          - Antigen Presenting Cells
-
-
-      - role: UX Design
-        time: 2017 - 2019
-        company: Vecna Healthcare, Burlington MA
-        details: |
-          Translating complex clinical workflows into intuitive and seamless user interfaces for electronic medical record products.
-          - Collaborate closely with engineering teams to design and prototype user interfaces that meet the needs of healthcare providers and improve patient care outcomes.
-          - Conduct usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
-          - Administer and maintain Ubuntu and Debian laptops and tablets used in clinical settings, ensuring reliable and secure access to essential healthcare applications.
-          - Utilize Virtualbox and Ansible to ensure that software packages, dependencies, and configurations are up to date, enhancing system stability and security.
-          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruptions to critical healthcare operations.  
- 
-
+          - Utilized NMR and Mass Spectrometry to confirm product formation and purity.
+          
+          - Publication:
+              Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
+                DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
+   
 
 skills:
     title: Skills
@@ -138,17 +119,14 @@ skills:
     toolset:
       - name: Cell culture
       - name: Immunoflouresence
-      - name: Immunoassay
-      - name: Proteomics
+      - name: Immunoassays
       - name: Viral immunology
-      - name: qtPCR
-      - name: Histology and microscopy
+      - name: Histology and Immunohistochemistry
       - name: ELISA
       - name: Protein expression and purification
-      - name: SPSS
-      - name: Project management
       - name: HPLC
-
+      - name: SPSS and R statistical analysis
+      - name: Project management
 
 
 footer: >
