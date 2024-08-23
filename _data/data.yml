@@ -24,19 +24,20 @@ sidebar:
     # pdf: 
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Photography
+        - item: 
           link: 
-        - item: Fitness
+        - item: 
           link:
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
     title: Why me?
     summary: |
-      I am a versatile and innovative tech professional with a unique blend of technical prowess and creative problem-solving skills. My dedication to continuous learning allows me to stay ahead of the curve and leverage emerging technologies to drive impactful solutions. In collaborative environments, I thrive, fostering effective communication and teamwork to achieve common goals. I take pride in my proactive approach to problem-solving. With a strong foundation in both technical and soft skills, I am well-equipped to tackle complex challenges and contribute positively to any organization's success in IT operations and innovation.
+      I am a versatile and innovative tech professional
+
 education:
     title: Education
     info:
@@ -71,53 +72,53 @@ experiences:
     title: Experiences
     info:
 
-      - role: Researcher Assistant
+      - role: Research Assistant in Medicinal Chemistry
         time: 2009-2011
         company: Tufts University Medford MA
         details: |
+          - Developed and optimized direct O-glycosidation methods for resin-bound thioglycosides, enhancing glycosylation efficiency in carbohydrate chemistry research. The method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications. 
 
-          Developed and optimized a direct O-glycosidation method for resin-bound thioglycosides, significantly enhancing the efficiency of glycoside synthesis. This work introduced improved reaction conditions and increased yields, advancing techniques in carbohydrate chemistry. The method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications.
+          - Utilized NMR and Mass Spectrometry to confirm product formation and purity.
           
-          - Publications: |
-
+          - Publication:
               Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
                 DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
 
-      - role: Researcher
+      - role: Research Assistant in Vaccine Immunology
         time: 2011-2013
-        company: Massachusetts General Hospital Boston MA 
+        company: Vaccine Immunotherapy Center, Massachusetts General Hospital, Boston MA 
         details: |
-          Investigated the efficacy of alginate microbeads incorporating CXCL12 in supporting long-term allo- and xenoislet transplantation without the need for systemic immune suppression.
+          - Performed experiments involving alginate microbead fabrication, islet isolation, and in vivo transplantation models to assess the efficacy of CXCL12-incorporated encapsulants in supporting long-term islet graft survival without systemic immune suppression, advancing innovative approaches to transplantation immunology. Documenting and presenting multidimensional quantitative data clearly and effectively for publication and peer review.
 
-          __Key Achievements:__
-          - Demonstrated a significant reduction in foreign body response (FBR) in nonhuman primate models, assessed through clinical observations and blood analyses over a six-month period post-implantation.
-          - Achieved extended euglycemia for over 300 days in murine models with CXCL12-encapsulated islets, compared to controls without CXCL12.
-          - Elucidated the mechanism of action of CXCL12 in repelling effector T cells while attracting regulatory T cells, promoting immune tolerance and reducing inflammation at the implantation site.
-          - Presented reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
-          Publication: 
+          Techniques: 
+          - Histology and Immunohistochemistry to examine transplanted tissue for immune cell infiltration, islet survival, and alginate bead integrity over time.
+          - Flow Cytometry for analyzing immune cell populations in transplanted tissue or peripheral blood to assess immune response and effectiveness of immune modulation.
+          - ELISA for measuring cytokine and chemokine levels, including CXCL12, to evaluate the immune environment around the transplanted islets.
+          - Programmed 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency 
+
+
+          - Publication: 
               Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. **American Journal of Transplantation**, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
-      - role: Freelance Website Developer
-        time: 2020 - Present
-        company: Young Design
+     - role: Research Assistant in Immunology
+        time: 2011-2013
+        company:  Autoimmune Therapeutics Institute at UMass Medical School, Worcester MA 
         details: |
-          - Prototype, design, and deploy beautiful, responsive sites to meet clients' business needs using a Lean design process
-          - Developing cross-browser compatible websites using Drupal and Wordpress 
-          - Create and manage testing environments using Docker, ensuring seamless integration and functionality across different platforms.
-          - Design captivating UI elements, illustrations, typography, and branding assets to enhance the overall aesthetic and identity of client projects.
-          - Drive improvements in client website rankings through strategic SEO techniques and compelling copywriting.
-          - Utilize Blender and 3D Max to produce high-quality 3D models and renders of client products, enhancing their visual appeal and marketability.
-          - Optimize existing client websites for mobile devices, enhancing user accessibility and engagement.
-          - Ensure the ongoing functionality and uptime of client websites through proactive maintenance and management of cloud services.
+           - Conducted experiments using flow cytometry, histology, and in vivo mouse models to investigate the efficacy of CXCR3-depleting antibodies in preventing and reversing vitiligo, contributing to insights into immune modulation and potential therapeutic strategies for autoimmune diseases.
 
-      - role: UX Design, Software testing and quality assurance
-        time: 2020 - 2023
-        company: Dendron, Seattle WA 
+            Techniques: 
+            - Flow Cytometry to analyze immune cell populations, particularly the depletion of CXCR3-expressing T cells in the skin and blood
+            - Histology and Immunohistochemistry to examine skin tissue for melanocyte presence and immune cell infiltration, providing insights into the cellular changes induced by antibody treatment.
+            - Western Blotting to detect CXCR3 within skin and immune cells.
+            - ELISA to to measure cytokine levels and immune response markers in serum and tissue samples.
+
+     - role: Research Assistant in Clinical Proteomics
+        time: 2011-2013
+        company: Clinical Proteomics Lab, Boston Veterans Association Hospital, Boston University School of Medicine. 
         details: |
-          Dendron is a next-generation, full-featured notetaking system built in Typescript.
-          - Design intuitive UI mockups for the engineering team, ensuring alignment with user needs and product objectives.
-          - Make continuous improvements to the application based on collected user feedback and research findings, enhancing usability and functionality.
-          - Work closely with the engineering team to ensure that bugs are identified and resolved promptly, maintaining a high standard of quality in the product.
+          - Melanoma Immunotherapy gitlab
+          - Antigen Presenting Cells
+
 
       - role: UX Design
         time: 2017 - 2019
@@ -130,34 +131,26 @@ experiences:
           - Utilize Virtualbox and Ansible to ensure that software packages, dependencies, and configurations are up to date, enhancing system stability and security.
           - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruptions to critical healthcare operations.  
  
-      - role: Technology administrator
-        time: 2012 - 2014
-        company: Tufts University Eliot-Pearson School, Medford MA 
-        details: |
-          Managing and maintaining critical IT infrastructure with effective diagnostic and problem solving abilities.
-          - Deploy, configure, and troubleshoot network systems, servers, and software applications to ensure optimal performance and security.
-          - Implement and enforce IT policies and procedures to enhance system reliability and data integrity, ensuring compliance with industry standards.
-          - Collaborate with vendors to resolve technical issues promptly, ensuring minimal disruptions to operations.
-          - Document IT processes and configurations meticulously, maintaining comprehensive records for future reference and audit purposes.
-          - Manage photography and videography equipment, ensuring their availability and functionality for educational purposes.
-          - Demonstrated exceptional cross-functional collaboration, working closely with teams to assess needs, develop solutions, and deliver exceptional support.
 
 
 skills:
     title: Skills
 
     toolset:
-      - name: Networking- Cisco, Ubiquity, OpenVPN, pfSense
+      - name: Cell culture
+      - name: Immunoflouresence
+      - name: Immunoassay
+      - name: Proteomics
+      - name: Viral immunology
+      - name: qtPCR
+      - name: Histology and microscopy
+      - name: ELISA
+      - name: Protein expression and purification
+      - name: SPSS
+      - name: Project management
+      - name: HPLC
 
-      - name: Virtualization- Virtualbox, VMWare, ESXi, KVM, Proxmox, Hypervisor, Docker 
 
-      - name: Data formatting, automation, Perl
-
-      - name: Linux Apache MySQL PHP
-
-      - name: Cloud- AWS, Azure
-
-      - name: Red Hat Certified System Administrator       .      220-188-718  # Jan 17 2023
 
 footer: >
     Designed and built with ❤️ by <a href="https://iterating.github.io/cv/" target="_blank">Jonathan Young Design</a>
