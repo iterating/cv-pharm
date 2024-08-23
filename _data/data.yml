@@ -36,7 +36,7 @@ sidebar:
 career-profile:
     title: Why me
     summary: |
-      With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills and experience in research and development, I bring a unique blend of technical expertise and critical thinking to the role of a Patent Examiner. My ability to understand complex scientific concepts and evaluate innovative technologies will enable me to effectively assess patent applications.
+      I am adept at exploring complex scientific concepts and innovative technologies, ensuring thorough examination of prior art and patent applications. With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills and experience in research and development, I bring a unique blend of technical expertise and critical thinking to the role of a Patent Examiner. My strong communication skills and commitment to precision will enable me to effectively review applications, write comprehensive legal office actions, and contribute to a diverse and inclusive intellectual property environment
 
 education:
     title: Education
@@ -55,7 +55,6 @@ education:
               Chromatography-free Solid Phase Oligosaccharide Synthesis.
                 [https://dl.tufts.edu/concern/pdfs/4x51hw10v](https://dl.tufts.edu/concern/pdfs/4x51hw10v)
 
-
       - degree: UMass Chan Medical School
         university: M.D. Candidate
         time: 2015 - 2019
@@ -67,7 +66,6 @@ education:
             Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
 
             A Chemokine Protective Shield for Islet Transplantation, Digestive Disease Interventions, Boston, MA
-
 
 experiences:
     title: Experiences
@@ -115,15 +113,12 @@ experiences:
              Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
               DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
    
-
-
 skills:
     title: Skills
 
     toolset:
       - name: Cell culture
       - name: Immunoflouresence
-      - name: Immunoassays
       - name: Viral immunology
       - name: Histology and Immunohistochemistry
       - name: ELISA
