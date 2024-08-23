@@ -71,7 +71,6 @@ education:
 experiences:
     title: Experiences
     info:
-
       - role: Research Assistant in Medicinal Chemistry
         time: 2009-2011
         company: Tufts University Medford MA
@@ -100,7 +99,7 @@ experiences:
           - Publication: 
               Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. **American Journal of Transplantation**, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
-     - role: Research Assistant in Immunology
+      - role: Research Assistant in Immunology
         time: 2011-2013
         company:  Autoimmune Therapeutics Institute at UMass Medical School, Worcester MA 
         details: |
@@ -112,7 +111,7 @@ experiences:
             - Western Blotting to detect CXCR3 within skin and immune cells.
             - ELISA to to measure cytokine levels and immune response markers in serum and tissue samples.
 
-     - role: Research Assistant in Clinical Proteomics
+      - role: Research Assistant in Clinical Proteomics
         time: 2011-2013
         company: Clinical Proteomics Lab, Boston Veterans Association Hospital, Boston University School of Medicine. 
         details: |
