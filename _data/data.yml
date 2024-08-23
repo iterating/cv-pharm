@@ -36,7 +36,7 @@ sidebar:
 career-profile:
     title: Why me
     summary: |
-      I am adept at exploring complex scientific concepts and innovative technologies, ensuring thorough examination of prior art and patent applications. With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills and experience in research and development, I bring a unique blend of technical expertise and critical thinking to the role of a Patent Examiner. My strong communication skills and commitment to precision will enable me to effectively review applications, write comprehensive legal office actions, and contribute to a diverse and inclusive intellectual property environment
+      Adept at exploring complex scientific concepts and innovative technologies, ensuring thorough examination of prior art and patent applications. With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills, informatics proficiency, and experience in research and development, I bring a unique blend of technical expertise and critical thinking to the role of Patent Examiner. My strong communication skills and commitment to precision will enable me to effectively review applications, write comprehensive legal office actions, and contribute to a diverse and inclusive intellectual property environment
 
 education:
     title: Education
@@ -51,6 +51,7 @@ education:
         time: 2007 - 2010
         details: |
           - Magna cum laude with Thesis Honors in Biology and Chemistry
+          - Coursework in Business Law
           - Thesis: |
               Chromatography-free Solid Phase Oligosaccharide Synthesis.
                 [https://dl.tufts.edu/concern/pdfs/4x51hw10v](https://dl.tufts.edu/concern/pdfs/4x51hw10v)
@@ -77,7 +78,7 @@ experiences:
            - Conducted experiments using flow cytometry, histology, and in vivo mouse models to investigate the efficacy of CXCR3-depleting antibodies in preventing and reversing vitiligo, contributing to insights into immune modulation and potential therapeutic strategies for autoimmune diseases.
 
            __Techniques:__
-           - Flow Cytometry to analyze immune cell populations, particularly the depletion of CXCR3-expressing T cells in the skin and blood
+           - Flow Cytometry to analyze immune cell populations and depletion of CXCR3-expressing T cells in the skin and blood
            - Histology and Immunohistochemistry to examine skin tissue for melanocyte presence and immune cell infiltration, providing insights into the cellular changes induced by antibody treatment.
            - Western Blotting to detect CXCR3 within skin and immune cells.
            - ELISA to to measure cytokine levels and immune response markers in serum and tissue samples.
@@ -87,14 +88,16 @@ experiences:
         time: 2011 - 2013
         company: Vaccine Immunotherapy Center, Massachusetts General Hospital, Boston MA 
         details: |
-          - Performed experiments involving alginate microbead fabrication, islet isolation, and in vivo transplantation models to assess the efficacy of CXCL12-incorporated encapsulants in supporting long-term islet graft survival without systemic immune suppression, advancing innovative approaches to transplantation immunology. Documenting and presenting multidimensional quantitative data clearly and effectively for publication and peer review.
+          - Conducted research on a mycobacterial Hsp70-containing fusion protein targeting mesothelin, showing its ability to boost antitumor immunity and extend survival in mouse models of ovarian cancer and mesothelioma. Utilized techniques such as Western blotting, flow cytometry, ELISA, and immunohistochemistry to assess protein efficacy and immune response.
+
+          - Conducted experiments with alginate microbead fabrication, islet isolation, and in vivo transplantation to evaluate how CXCL12-incorporated encapsulants support long-term islet graft survival without systemic immune suppression, advancing innovative approaches to transplantation immunology. Documented and presented detailed quantitative data for publication and peer review, contributing to innovative approaches in transplantation immunology.
 
           __Techniques:__ 
           - Histology and Immunohistochemistry to examine transplanted tissue for immune cell infiltration, islet survival, and alginate bead integrity over time.
-          - Flow Cytometry for analyzing immune cell populations in transplanted tissue or peripheral blood to assess immune response and effectiveness of immune modulation.
+          - Flow Cytometry for analyzing immune cell populations in peripheral blood to assess immune response and effectiveness of immune modulation.
           - ELISA for measuring cytokine and chemokine levels, including CXCL12, to evaluate the immune environment around the transplanted islets.
-          - Programmed 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency 
-
+          - Protein Expression and Purification of mycobacterial Hsp70-containing fusion protein for experimental use.
+          - Developed 'Cellbot', an automated cell counting program in Java and ImageJ, speeding data collection and experimental validation 
 
           __Publication:__
 
