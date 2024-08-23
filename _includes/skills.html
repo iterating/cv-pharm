@@ -2,8 +2,6 @@
 {% if skills %}
   {% if site.data.data.sidebar.skills %}
   <div class="education-container container-block">
-  <section class="skills-section section">
-
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -28,10 +26,9 @@
     {% endfor %}
 
   </div>
+</div>
 
-</section><!--//skills-section-->
-
-{% if skills %}
+{% else %}
 <section class="skills-section section">
 
   <h2 class="section-title">
