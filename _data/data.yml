@@ -43,40 +43,38 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Choate Rosemary Hall
-        details: |
-          - American Invitational Mathematics Examination (AIME) Qualifications
-              - Acknowledged for problem-solving and mathematical proficiency, demonstrating capability in addressing advanced mathematical challenges and achieving high-level problem-solving outcomes
-
-      - degree: Tufts University
-        university: B.Sc., Biology GPA：3.7
-        time: Sept 2007 - May 2010
-        details: |
-          Magna cum laude with Thesis Honors in Biology and Chemistry
-            - Supervisor: Prof.Clay Bennett
-          Thesis: |
-              Chromatography-free Solid Phase Oligosaccharide Synthesis.
-
-      - degree: UMass Chan Medical School
-        university: Medicine
-        time: 2015 - 2018
-        details: |
-          Winner, American College of Physicians National Abstract Competition
-
-            Pretending to Be the Great Pretender. ACP Impact, October 2016.
-
       - degree: Per Scholas
         university: Software Engineering Track
         time: Aug 2024 - Dec 2024
         details: |
           Software Engineering track
 
+      - degree: UMass Chan Medical School
+        university: Medicine
+        time: 2015 - 2018
+        details: |
+          Winner, American College of Physicians National Abstract Competition
+          Publications/Conference Presentation: Pretending to Be the Great Pretender. ACP Impact, October 2016.
+
+      - degree: Tufts University
+        university: B.Sc., Biology GPA：3.7
+        time: 2007 - 2010
+        details: |
+          Magna cum laude with Thesis Honors in Biology and Chemistry
+          Thesis: Chromatography-free Solid Phase Oligosaccharide Synthesis
+
+
+      - degree: Choate Rosemary Hall
+        details: |
+          American Invitational Mathematics Examination (AIME) Qualifications
+            Acknowledged for problem-solving and mathematical proficiency, demonstrating capability in addressing advanced mathematical challenges and achieving high-level problem-solving outcomes
+
 experiences:
     title: Experiences
     info:
       - role: Junior Software Developer Volunteer
         time: 2024 - Present
-        company: LA Film Lab
+        company: LA Film Lab, Los Angeles
         details: |
           - Working closely with senior developer to build software for film lab.
 
@@ -86,7 +84,7 @@ experiences:
         details: |
           - Building internal apps that support running business operations with MERN stack
 
-          *Operations Manager*                  2018 - 2022
+          *Operations Manager 2018 - 2022*
             - Analyzed and optimized work routes to drive a 25% cost savings per route.
             - Ensured QC and delivered improved and timelier snow removal experience for 30 contract clients. 
             - Lead snow removal ground teams, promoting a collaborative work environment among snow removal employees. 
