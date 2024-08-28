@@ -54,7 +54,8 @@ education:
         time: 2015 - 2018
         details: |
           Winner, American College of Physicians National Abstract Competition
-          Publications/Conference Presentation: Pretending to Be the Great Pretender. ACP Impact, October 2016.
+          Publication/Conference Presentation: Pretending to Be the Great Pretender. ACP Impact, October 2016.
+          A Chemokine Protective Shield for Islet Transplantation. Digestive Disease Interventions, Boston, MA
 
       - degree: Tufts University
         university: B.Sc., Biology GPA：3.7
@@ -62,6 +63,8 @@ education:
         details: |
           Magna cum laude with Thesis Honors in Biology and Chemistry
           Thesis: Chromatography-free Solid Phase Oligosaccharide Synthesis
+          Publication: Direct O-glycosidation of resin bound thioglycosides. Organic and Bimolecular Chemistry, 2012. DOI: 10.1039/c2ob06883d
+
 
 
       - degree: Choate Rosemary Hall
@@ -116,8 +119,8 @@ experiences:
           Investigate use of chemokine based local immunosuppression in islet transplantation, leading to successful publication. 
           - Present reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
           - Creator of 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency. 
-          __Publication:__
 
+          __Publication:__
              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. [DOI 10.1111/ajt.13049](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
       - role: Technology administrator
@@ -139,8 +142,6 @@ skills:
       - name: Javascript
 
       - name: LAMP stack and MERN stack
-
-      - name: Networking- Cisco, Ubiquity, OpenVPN
 
       - name: Virtualization- Virtualbox, VMWare, KVM, Proxmox, Hypervisor, Docker 
 
