@@ -57,7 +57,7 @@ education:
           Magna cum laude with Thesis Honors in Biology and Chemistry
             - Supervisor: Prof.Clay Bennett
           Thesis: |
-              [Chromatography-free Solid Phase Oligosaccharide Synthesis.](https://dl.tufts.edu/concern/pdfs/4x51hw10v)
+              Chromatography-free Solid Phase Oligosaccharide Synthesis.
 
       - degree: UMass Chan Medical School
         university: Medicine
@@ -65,7 +65,7 @@ education:
         details: |
           Winner, American College of Physicians National Abstract Competition
 
-            [Pretending to Be the Great Pretender. *ACP Impact*, October 2016.](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
+            Pretending to Be the Great Pretender. ACP Impact, October 2016.
 
       - degree: Per Scholas
         university: Software Engineering Track
@@ -88,7 +88,7 @@ experiences:
         details: |
           - Building internal apps that support running business operations with MERN stack
 
-          *Operations Manager*        *2018 - 2022*
+          *Operations Manager*                  2018 - 2022
             - Analyzed and optimized work routes to drive a 25% cost savings per route.
             - Ensured QC and delivered improved and timelier snow removal experience for 30 contract clients. 
             - Lead snow removal ground teams, promoting a collaborative work environment among snow removal employees. 
