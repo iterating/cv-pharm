@@ -12,7 +12,7 @@ sidebar:
     phone: 626 626 0656
     timezone: Pacific Time
     citizenship: US Citizen
-    website: iterating.github.io/cv-pharm #do not add http://
+    website: #do not add http://
     linkedin: 
     github: iterating
     telegram: # add your nickname without '@' sign
@@ -36,7 +36,7 @@ sidebar:
 career-profile:
     title: Why me
     summary: |
-      Adept at exploring and communicating complex scientific concepts and innovative technologies.  With a strong background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills, informatics proficiency, and experience in research and development, I bring a blend of technical expertise and critical thinking to the role of Patent Examiner. 
+      Adept at exploring and communicating complex scientific concepts and innovative technologies.  With a background in biology, immunology, and medicinal chemistry, combined with rigorous analytical skills, informatics proficiency, and experience in research and development, I bring a blend of technical expertise and critical thinking to the role of Patent Examiner for the USPTO. 
 education:
     title: Education
     info:
@@ -46,24 +46,25 @@ education:
               - Acknowledged for problem-solving and mathematical proficiency, demonstrating capability in addressing advanced mathematical challenges and achieving high-level problem-solving outcomes
 
       - degree: Tufts University
-        university: B.Sc., Biology
-        time: 2007 - 2010
+        university: B.Sc., Biology GPA: (3.7)
+        time: Sept 2007 - May 2010
         details: |
           - Magna cum laude with Thesis Honors in Biology and Chemistry
-          - Coursework in Business Law
+            - Supervisor: Prof.Clay Bennett
+          - Head tutor in Biology
           - Thesis: |
-              Chromatography-free Solid Phase Oligosaccharide Synthesis.
-                [https://dl.tufts.edu/concern/pdfs/4x51hw10v](https://dl.tufts.edu/concern/pdfs/4x51hw10v)
+              (Chromatography-free Solid Phase Oligosaccharide Synthesis.)(https://dl.tufts.edu/concern/pdfs/4x51hw10v)
+          - Relevant coursework: Business Law, Biostatistics, Recombinant DNA Technologies
 
       - degree: UMass Chan Medical School
         university: M.D. Candidate
-        time: 2015 - 2019
+        time: 2015 - 2018
         details: |
           - Winner, American College of Physicians National Abstract Competition. 
                         
           **National Conference Presentations:**
 
-            Pretending to Be the Great Pretender. *ACP Impact*, October 2016. [https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
+            [Pretending to Be the Great Pretender. *ACP Impact*, October 2016.](https://www.acponline.org/membership/medical-students/acp-impact/archive/october-2016/winning-abstracts-pretending-to-be-the-great-pretender)
 
             A Chemokine Protective Shield for Islet Transplantation. Digestive Disease Interventions, Boston, MA
 
@@ -87,7 +88,7 @@ experiences:
         time: 2011 - 2013
         company: Vaccine Immunotherapy Center, Massachusetts General Hospital, Boston MA 
         details: |
-          - Conducted research on a mycobacterial Hsp70-containing fusion protein targeting mesothelin, showing its ability to boost antitumor immunity and extend survival in mouse models of ovarian cancer and mesothelioma. Utilized techniques such as Western blotting, flow cytometry, ELISA, and immunohistochemistry to assess protein efficacy and immune response.
+          - Conducted research on a mycobacterial Hsp70-containing fusion protein targeting mesothelin, showing its ability to boost antitumor immunity and extend survival in mouse models of ovarian cancer and mesothelioma.
 
           - Conducted experiments with alginate microbead fabrication, islet isolation, and in vivo transplantation to evaluate how CXCL12-incorporated encapsulants support long-term islet graft survival without systemic immune suppression, advancing innovative approaches to transplantation immunology. Documented and presented detailed quantitative data for publication and peer review, contributing to innovative approaches in transplantation immunology.
 
@@ -95,12 +96,12 @@ experiences:
           - Histology and Immunohistochemistry to examine transplanted tissue for immune cell infiltration, islet survival, and alginate bead integrity over time.
           - Flow Cytometry for analyzing immune cell populations in peripheral blood to assess immune response and effectiveness of immune modulation.
           - ELISA for measuring cytokine and chemokine levels, including CXCL12, to evaluate the immune environment around the transplanted islets.
-          - Protein Expression and Purification of mycobacterial Hsp70-containing fusion protein for experimental use.
+          - Protein Expression and Purification of mycobacterial Hsp70-containing fusion protein for experimental use
           - Developed 'Cellbot', an automated cell counting program in Java and ImageJ, speeding data collection and experimental validation 
 
           __Publication:__
 
-             Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. DOI 10.1111/ajt.13049 [https://pubmed.ncbi.nlm.nih.gov/25693473/](https://pubmed.ncbi.nlm.nih.gov/25693473/)
+             Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. [DOI 10.1111/ajt.13049](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
       - role: Research Assistant in Medicinal Chemistry
         time: Jun 2009 - Jul 2011
@@ -112,8 +113,7 @@ experiences:
           
           __Publication:__
 
-             Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012.
-              DOI: 10.1039/c2ob06883d  [https://pubmed.ncbi.nlm.nih.gov/22261792/](https://pubmed.ncbi.nlm.nih.gov/22261792/)
+             Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012. [DOI: 10.1039/c2ob06883d](https://pubmed.ncbi.nlm.nih.gov/22261792/)
    
 skills:
     title: Skills
@@ -126,8 +126,8 @@ skills:
       - name: Protein expression and purification
       - name: HPLC
       - name: Statistical analysis
-      - name: Project management
+      - name: Search query and boolean logic 
 
 
 footer: >
-    Designed and built with ❤️ by <a href="https://iterating.github.io/cv/" target="_blank">Jonathan Young Design</a>
+    Designed and built by <a href="" target="_blank">Jonathan Young Design</a>
