@@ -54,7 +54,11 @@ education:
         time: 2015 - 2018
         details: |
           Winner, American College of Physicians National Abstract Competition
-          Publication/Conference Presentation: Pretending to Be the Great Pretender. ACP Impact, October 2016.
+
+          Publication/Conference Presentations: 
+
+          Pretending to Be the Great Pretender. ACP Impact, October 2016.
+
           A Chemokine Protective Shield for Islet Transplantation. Digestive Disease Interventions, Boston, MA
 
       - degree: Tufts University
@@ -62,7 +66,9 @@ education:
         time: 2007 - 2010
         details: |
           Magna cum laude with Thesis Honors in Biology and Chemistry
+
           Thesis: Chromatography-free Solid Phase Oligosaccharide Synthesis
+
           Publication: Direct O-glycosidation of resin bound thioglycosides. Organic and Bimolecular Chemistry, 2012. DOI: 10.1039/c2ob06883d
 
 
