@@ -50,10 +50,9 @@ education:
         university: M.D. Candidate
         time: 2015 - 2018
         details: |
-          Winner, American College of Physicians National Abstract Competition
+          Winner, American College of Physicians National Abstract Competition  
           *Publications/Conference Presentations:*  
           Pretending to Be the Great Pretender. *ACP Impact*, October 2016.  
-
           A Chemokine Protective Shield for Islet Transplantation. *Digestive Disease Interventions*, Boston, MA.
 
       - degree: Tufts University
@@ -62,12 +61,12 @@ education:
         details: |
           Magna cum laude with Thesis Honors in Biology and Chemistry  
           *Publication:*  
-          Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012. DOI: 10.1039/c2ob06883d
+          Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry* DOI: 10.1039/c2ob06883d
 
       - degree: Choate Rosemary Hall
         details: |
           American Invitational Mathematics Examination (AIME) Qualifications  
-          Acknowledged for problem-solving and mathematical proficiency, demonstrating capability in achieving high-level problem-solving outcomes
+            Acknowledged for problem-solving and mathematical proficiency, demonstrating capability in achieving high-level problem-solving outcomes
 
 experiences:
     title: Experiences
