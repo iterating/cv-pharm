@@ -12,15 +12,12 @@ sidebar:
     email: jyoung0696@gmail.com
     phone: 626 626 0656
     timezone: Pacific Time
-    citizenship: US
+    citizenship: US citizenship
     website: iterating.github.io/cv-tech #do not add http://
     linkedin: 
-    xing: 
     github: Iterating
-    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,7 +36,7 @@ sidebar:
 career-profile:
     title: Why me?
     summary: |
-      I am a versatile tech professional with a blend of technical expertise and creative problem-solving skill. My proactive approach to problem-solving, combined with a strong foundation in both technical and soft skills, equips me to tackle complex challenges and contribute positively to organizational success. I strive to balance knowing my limits with continuous learning and aim to cultivate a culture of kindness and empathy in a collaborative environment.
+    I am a versatile and innovative professional with a blend of technical expertise, creative problem-solving skills, and growth mindset. My proactive approach, foundation in technical and soft skills, and ability to adapt to emerging technologies enable me to tackle complex challenges effectively. I am committed to continuous learning and fostering a collaborative environment that drives impactful solutions.
 education:
     title: Education
     info:
@@ -47,10 +44,10 @@ education:
         university: Software Engineering Track
         time: Aug 2024 - Dec 2024
         details: |
-          Software Engineering track
+          Coding bootcamp, Software Engineering specialization in object-oriented programming and full stack development
 
       - degree: UMass Chan Medical School
-        university: Medicine
+        university: M.D. Candidate
         time: 2015 - 2018
         details: |
           Winner, American College of Physicians National Abstract Competition
@@ -66,8 +63,6 @@ education:
         time: 2007 - 2010
         details: |
           Magna cum laude with Thesis Honors in Biology and Chemistry
-
-          Thesis: Chromatography-free Solid Phase Oligosaccharide Synthesis
 
           Publication: Direct O-glycosidation of resin bound thioglycosides. Organic and Bimolecular Chemistry, 2012. DOI: 10.1039/c2ob06883d
 
@@ -85,15 +80,19 @@ experiences:
         time: 2024 - Present
         company: LA Film Lab, Los Angeles CA
         details: |
-          - Working closely with senior developer to build software for film lab.
+          - Working closely with senior developer to build customer facing and internal facing software for film lab.
 
       - role: Junior Software Developer Volunteer
         time: 2024 - Present
         company: Greater Boston Snow Removal, Boston MA (Remote)
         details: |
-          - Building internal apps that support running business operations with MERN stack
+          - Communicate and foolow up with stakeholders to determine user requirements for features
+          - Developing internal applications using HTML, CSS, and Javascript to support business operations
 
-          *Operations Manager 2018 - 2022*
+
+        time2: 2019 - 2020
+        company2: Greater Boston Snow Removal, Boston MA
+        details: |
             - Analyzed and optimized work routes to drive a 25% cost savings per route.
             - Ensured QC and delivered improved and timelier snow removal experience for 30 contract clients. 
             - Lead snow removal ground teams, promoting a collaborative work environment among snow removal employees. 
@@ -102,29 +101,28 @@ experiences:
         time: 2020 - 2023
         company: Dendron, Seattle WA 
         details: |
-          - Work closely with the engineering team to ensure that bugs are identified and resolved promptly, maintaining a high standard of quality in the product.
+          - Worked closely with the engineering team to ensure that bugs are identified and resolved promptly, maintaining a high standard of quality in the product.
           - Communicate continuous improvements to the engineering team based on collected user feedback and research findings, enhancing usability and functionality.
-          - Foster engagement within the user community by creating, collecting, and sharing effective workflows.
+          - Foster engagement within the user community by creating, collecting, and sharing effective workflows, thereby empowering users and optimizing use cases.
 
-      - role: Clinical User Interface Designer
+      - role: Clinical User Interface Specialist
         time: 2014 - 2015
         company: Vecna Healthcare, Burlington MA
         details: |
-          Translating complex clinical workflows into intuitive and seamless user interfaces for electronic medical record product.
+          Translated complex clinical workflows into intuitive and seamless user interfaces for electronic medical record product.
           - Collaborate closely with engineering teams to design and prototype user interfaces that meet the needs of healthcare providers and improve patient care outcomes.
-          - Conduct usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
-          - Administer and maintain Ubuntu and Debian laptops and tablets used in clinical settings, ensuring reliable and secure access to essential healthcare applications.
-          - Utilize Virtualbox and Ansible to ensure that software packages, dependencies, and configurations are up to date, enhancing system stability and security.
-          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruptions to critical healthcare operations.
+          - Conduct consistant usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
+          - Configure, administer and maintain Ubuntu and Debian laptops used in clinical settings with Ansible, ensuring reliable and secure access to essential healthcare applications.
+          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruption to critical healthcare operations.
  
 
       - role: Research Assistant in Vaccine Immunology
         time: 2011 - 2013
         company: Vaccine Immunotherapy Center, Massachusetts General Hospital, Boston MA 
         details: |
-          Investigate use of chemokine based local immunosuppression in islet transplantation, leading to successful publication. 
-          - Present reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
-          - Creator of 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency. 
+          Investigated use of chemokine based local immunosuppression in islet transplantation, leading to successful publication. 
+          - Present complex multidimensional quantitative data, informing direction of future development.
+          - Developed 'Cellbot', an automated cell counting program in Java and ImageJ, speeding data collection and experimental validation.
 
           __Publication:__
              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. [DOI 10.1111/ajt.13049](https://pubmed.ncbi.nlm.nih.gov/25693473/)
@@ -133,32 +131,24 @@ experiences:
         time: 2010 - 2011
         company: Tufts University Eliot-Pearson School, Medford MA 
         details: |
-          Manage and maintain IT infrastructure using effective diagnostic and problem solving abilities.
-          - Deploy, configure, and troubleshoot network systems, servers, and software applications to ensure optimal performance and security.
-          - Implement and enforce IT policies and procedures to enhance system reliability and data integrity, ensuring compliance with industry standards.
-          - Collaborate with vendors to resolve technical issues promptly, ensuring minimal disruptions to operations.
-          - Document IT processes and configurations meticulously, maintaining comprehensive records for future reference and audit purposes.
+          Managed and maintained IT infrastructure using effective diagnostic and problem solving abilities.
+          - Deploy, configure, and troubleshoot network systems, servers, and software applications to optimize performance and security.
+          - Implement IT policies and procedures to enhance system reliability and data integrity, ensuring compliance with industry standards.
+          - Collaborate with vendors to promptly resolve technical issues, ensuring minimal disruptions to operations.
+          - Document IT processes and configurations, maintaining comprehensive records.
           - Manage photography and videography equipment, ensuring their availability and functionality for educational purposes.
           - Demonstrated exceptional cross-functional collaboration, working closely with teams to assess needs, develop solutions, and deliver exceptional support.
 
 skills:
     title: Skills
-
     toolset:
       - name: Javascript
-
-      - name: LAMP stack and MERN stack
-
-      - name: Virtualization- Virtualbox, VMWare, KVM, Proxmox, Hypervisor, Docker 
-
-      - name: Cloud- AWS, Azure
-
-      - name: Design- Figma, Ilustrator, Photoshop 
-
-      - name: Data- Tableau, Excel, SPSS, Python 
-
+      - name: Node.js
+      - name: Virtualization- Virtualbox, VMWare, Hypervisor, Docker 
+      - name: Design- Figma, Ilustrator, Photoshop  
+      - name: Search querying and boolean logic
       - name: Red Hat System Administration
-              Certificate 170-077-016
+              Certificate 170-077-016 (currently inactive)
 
 footer: >
     Designed by <a href="http://iterating.github.io/cv-tech" target="_blank" rel="nofollow">J Young Design</a>
