@@ -30,14 +30,20 @@
     </div><!--//details-->
     {% endif %}
     {% if experience.time2 %}
-   <div class="time">{{ experience.time2 }}</div>
+    <div class="meta">
+
+      <div class="upper-row">
+        <div class="time">{{ experience.time2 }}</div>
       </div><!--//upper-row-->
 
       <div class="company">{{ experience.role2 }}</div>
-    {% endif %}
+
+
+    </div><!--//meta-->
+
     {% if experience.details2 %}
     <div class="details">
-      {{ experience.details | markdownify }}
+      {{ experience.details2 | markdownify }}
     </div><!--//details-->
     {% endif %}
 
