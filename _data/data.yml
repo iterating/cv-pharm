@@ -24,13 +24,13 @@ sidebar:
     # pdf: 
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Photography
+        - item: 
           link: 
-        - item: Fitness
+        - item: 
           link:
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
@@ -52,11 +52,11 @@ education:
         details: |
           Winner, American College of Physicians National Abstract Competition
 
-          Publication/Conference Presentations: 
+          Publications/Conference Presentations: 
 
-          Pretending to Be the Great Pretender. ACP Impact, October 2016.
+            Pretending to Be the Great Pretender. ACP Impact, October 2016.
 
-          A Chemokine Protective Shield for Islet Transplantation. Digestive Disease Interventions, Boston, MA
+            A Chemokine Protective Shield for Islet Transplantation. Digestive Disease Interventions, Boston, MA
 
       - degree: Tufts University
         university: B.Sc., Biology GPA：3.7
@@ -65,8 +65,6 @@ education:
           Magna cum laude with Thesis Honors in Biology and Chemistry
 
           Publication: Direct O-glycosidation of resin bound thioglycosides. Organic and Bimolecular Chemistry, 2012. DOI: 10.1039/c2ob06883d
-
-
 
       - degree: Choate Rosemary Hall
         details: |
@@ -81,13 +79,16 @@ experiences:
         company: LA Film Lab, Los Angeles CA
         details: |
           - Working closely with senior developer to build customer facing and internal facing software for film lab.
+          - Created internal facing kiosk using HTML, CSS, and Javascript for customer order management and labeling, improving employee efficiency by 25%. 
 
       - role: Junior Software Developer Volunteer
         time: 2024 - Present
         company: Greater Boston Snow Removal, Boston MA (Remote)
         details: |
-          - Communicate and follow up with stakeholders to determine user requirements for features
-          - Developing internal applications using HTML, CSS, and Javascript to support business operations
+          - Communicate and follow up with stakeholders to determine user requirements for features.
+          - Developing internal applications using HTML, CSS, and Javascript to support business operations.
+          - Worked with MongoDB and RESTful APIs to implement and optimize scalable database solutions, enhancing data retrieval efficiency and application performance.
+
         time2: 2019 - 2020
         role2: Operations Manager
         details2: |
@@ -97,10 +98,10 @@ experiences:
 
       - role: Software Quality Assurance Analyst
         time: 2020 - 2023
-        company: Dendron, Seattle WA 
+        company: Dendron, Seattle WA (remote)
         details: |
-          - Worked closely with the engineering team to ensure that bugs are identified and resolved promptly, maintaining a high standard of quality in the product.
-          - Communicate continuous improvements to the engineering team based on collected user feedback and research findings, enhancing usability and functionality.
+          - Replicated bugs from tickets, broke down multifactorial issues into component parts, and enhanced bug report with details, clarifying ticket issues for engineering team and ensuring that bugs are identified and resolved promptly. 
+          - Communicate continuous improvements to the engineering team based on collected user feedback and research findings, enhancing product usability and functionality.
           - Foster engagement within the user community by creating, collecting, and sharing effective workflows, thereby empowering users and optimizing use cases.
 
       - role: Clinical User Interface Specialist
@@ -109,7 +110,7 @@ experiences:
         details: |
           Translated complex clinical workflows into intuitive and seamless user interfaces for electronic medical record product.
           - Collaborate closely with engineering teams to design and prototype user interfaces that meet the needs of healthcare providers and improve patient care outcomes.
-          - Conduct consistant usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
+          - Conduct usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
           - Configure, administer and maintain Ubuntu and Debian laptops used in clinical settings with Ansible, ensuring reliable and secure access to essential healthcare applications.
           - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruption to critical healthcare operations.
  
@@ -134,14 +135,14 @@ experiences:
           - Implement IT policies and procedures to enhance system reliability and data integrity, ensuring compliance with industry standards.
           - Collaborate with vendors to promptly resolve technical issues, ensuring minimal disruptions to operations.
           - Document IT processes and configurations, maintaining comprehensive records.
-          - Manage photography and videography equipment, ensuring their availability and functionality for educational purposes.
           - Demonstrated exceptional cross-functional collaboration, working closely with teams to assess needs, develop solutions, and deliver exceptional support.
 
 skills:
     title: Skills
     toolset:
-      - name: Javascript
+      - name: Javascript, HTML, CSS
       - name: Node.js
+      - name: MongoDB, MySQL, Firebase/Supabase
       - name: Virtualization- Virtualbox, VMWare, Hypervisor, Docker 
       - name: Design- Figma, Ilustrator, Photoshop  
       - name: Search querying and boolean logic
