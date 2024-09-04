@@ -78,6 +78,7 @@ experiences:
         company: LA Film Lab, Los Angeles CA
         details: |
           Building customer and internal facing software for operating a film lab using Angular, Node.JS, and Firebase, working closely with senior developer
+          - Experience in web performance optimization and scaling, employing techniques such as lazy loading, asynchronous programming, and efficient resource management.
           - Designed and developed internal facing labeling system using HTML, CSS, and Javascript for customer order management and labeling, improving employee efficiency by 25%. 
 
       - role: Junior Software Developer Volunteer
@@ -86,6 +87,8 @@ experiences:
         details: |
           Communicating and following up with stakeholders to clarify user requirements for features. Worked with tech lead to build features, leading to successful implementation and delivery of features
           - Developing internal applications using HTML, CSS, and Javascript to support business operations.
+          - Utilizing the Model-View-Controller (MVC) design pattern for structuring JavaScript features, enhancing code maintainability and promoting efficient development processes.
+          - Leveraging Nextjs for Server-Side Rendering (SSR) of the application, improving initial page load performance
           - Worked with MongoDB, Mongoose, and RESTful APIs to implement and optimize scalable database solutions, enhancing data retrieval efficiency and application performance.
 
         time2: 2019 - 2020
@@ -96,7 +99,7 @@ experiences:
             - Organized and led 6 member teams to effectively , ensuring workers have access to equipment, supplies, and transportation, whike promoting a collaborative work environment among snow removal employees. 
 
       - role: Software Quality Assurance Analyst
-        time: 2020 - 2023
+        time: 2021 - 2023
         company: Dendron, Seattle WA (remote)
         details: |
           Analyzed and replicated bugs from tickets, broke down multifactorial issues into component parts, and enhanced bug report with details, clarifying ticket issues for engineering team and ensuring that bugs are identified and resolved promptly. 
