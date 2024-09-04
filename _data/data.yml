@@ -94,9 +94,9 @@ experiences:
         time2: 2019 - 2020
         role2: Operations Manager
         details2: |
-            Analyzed and optimized work routes to drive a 25% cost savings per route.
-            - Ensured QC and delivered timelier snow removal experience for 30 contract clients, leading to customer retention
-            - Organized and led 6 member teams to effectively , ensuring workers have access to equipment, supplies, and transportation, whike promoting a collaborative work environment among snow removal employees. 
+          Analyzed and optimized work routes to drive a 25% cost savings per route.
+          - Ensured QC and delivered timelier snow removal experience for 30 contract clients, leading to customer retention
+          - Organized and led 6 member teams to effectively , ensuring workers have access to equipment, supplies, and transportation, whike promoting a collaborative work environment among snow removal employees. 
 
       - role: Software Quality Assurance Analyst
         time: 2021 - 2023
@@ -128,17 +128,16 @@ experiences:
           __Publication:__
              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. [DOI 10.1111/ajt.13049](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
-      - role: Technology administrator
-        time: 2010 - 2011
-        company: Tufts University Eliot-Pearson School, Medford MA 
+      - role: Research Assistant in Medicinal Chemistry
+        time: Jun 2009 - Jul 2011
+        company: Tufts University Medford MA
         details: |
-          Managed and maintained IT infrastructure using effective diagnostic and problem solving abilities.
-          - Deployed, configured, and troubleshoot network systems, servers, and software applications to optimize performance and security.
-          - Implement IT policies and procedures to enhance system reliability and data integrity, ensuring compliance with industry standards.
-          - Collaborate with vendors to promptly resolve technical issues, ensuring minimal disruptions to operations.
-          - Document IT processes and configurations, maintaining comprehensive records.
-          - Demonstrated exceptional cross-functional collaboration, working closely with teams to assess needs, develop solutions, and deliver exceptional support.
+          - Developed and optimized a direct O-glycosidation method for resin-bound thioglycosides, enhancing efficiency in carbohydrate chemistry research. This method streamlines the glycosidation process and has practical implications for both chemical synthesis and pharmaceutical applications. 
+          - Analyzed product formation and purity with NMR and Mass Spectrometry 
+          
+          __Publication:__
 
+             Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry*, 2012. [DOI: 10.1039/c2ob06883d](https://pubmed.ncbi.nlm.nih.gov/22261792/)
 skills:
     title: Skills
     toolset:
