@@ -1,7 +1,7 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    education: True 
+    skills: False 
 
     # Profile information
     name: Jonathan Young 
@@ -18,7 +18,9 @@ sidebar:
     github: 
     gitlab:
     bitbucket:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overfl
+
+    ow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: 
@@ -75,51 +77,51 @@ experiences:
         time: 2024 - Present
         company: LA Film Lab, Los Angeles CA
         details: |
-          - Working closely with senior developer to build customer facing and internal facing software for film lab.
-          - Created internal facing kiosk using HTML, CSS, and Javascript for customer order management and labeling, improving employee efficiency by 25%. 
+          Building customer and internal facing software for operating a film lab using Angular, Node.JS, and Firebase, working closely with senior developer
+          - Designed and developed internal facing labeling system using HTML, CSS, and Javascript for customer order management and labeling, improving employee efficiency by 25%. 
 
       - role: Junior Software Developer Volunteer
         time: 2024 - Present
         company: Greater Boston Snow Removal, Boston MA (Remote)
         details: |
-          - Communicate and follow up with stakeholders to determine user requirements for features.
+          Communicating and following up with stakeholders to clarify user requirements for features. Worked with tech lead to build features, leading to successful implementation and delivery of features
           - Developing internal applications using HTML, CSS, and Javascript to support business operations.
-          - Worked with MongoDB and RESTful APIs to implement and optimize scalable database solutions, enhancing data retrieval efficiency and application performance.
+          - Worked with MongoDB, Mongoose, and RESTful APIs to implement and optimize scalable database solutions, enhancing data retrieval efficiency and application performance.
 
         time2: 2019 - 2020
         role2: Operations Manager
         details2: |
-            - Analyzed and optimized work routes to drive a 25% cost savings per route.
-            - Ensured QC and delivered improved and timelier snow removal experience for 30 contract clients. 
-            - Lead snow removal ground teams, promoting a collaborative work environment among snow removal employees. 
+            Analyzed and optimized work routes to drive a 25% cost savings per route.
+            - Ensured QC and delivered timelier snow removal experience for 30 contract clients, leading to customer retention
+            - Organized and led 6 member teams to effectively , ensuring workers have access to equipment, supplies, and transportation, whike promoting a collaborative work environment among snow removal employees. 
 
       - role: Software Quality Assurance Analyst
         time: 2020 - 2023
         company: Dendron, Seattle WA (remote)
         details: |
-          - Replicated bugs from tickets, broke down multifactorial issues into component parts, and enhanced bug report with details, clarifying ticket issues for engineering team and ensuring that bugs are identified and resolved promptly. 
-          - Communicate continuous improvements to the engineering team based on collected user feedback and research findings, enhancing product usability and functionality.
+          Analyzed and replicated bugs from tickets, broke down multifactorial issues into component parts, and enhanced bug report with details, clarifying ticket issues for engineering team and ensuring that bugs are identified and resolved promptly. 
+          - Communicated continuous improvements to the engineering team based on collected user feedback and research findings, enhancing product usability and functionality.
           - Foster engagement within the user community by creating, collecting, and sharing effective workflows, thereby empowering users and optimizing use cases.
 
       - role: Clinical User Interface Specialist
         time: 2014 - 2015
         company: Vecna Healthcare, Burlington MA
         details: |
-          Translated complex clinical workflows into intuitive and seamless user interfaces for electronic medical record product.
-          - Collaborate closely with engineering teams to design and prototype user interfaces that meet the needs of healthcare providers and improve patient care outcomes.
-          - Conduct usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
-          - Configure, administer and maintain Ubuntu and Debian laptops used in clinical settings with Ansible, ensuring reliable and secure access to essential healthcare applications.
-          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruption to critical healthcare operations.
+          Translated complex clinical workflows into intuitive and seamless user interfaces for electronic medical record product built with Bootstrap, Node.js, and MySQL.
+          - Designed and prototype user interfaces that meet the needs of healthcare providers and improve patient care outcomes, collaborating closely with engineering team 
+          - Conducted usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
+          - Configured, administered and maintained Ubuntu and Debian laptops used in clinical settings with Ansible, ensuring reliable and secure access to essential healthcare applications.
+          - Upgraded and monitored clinical IT infrastructure, achieving uptime close to 100% and minimizing disruption to critical healthcare operations.
  
 
       - role: Research Assistant in Vaccine Immunology
         time: 2011 - 2013
         company: Vaccine Immunotherapy Center, Massachusetts General Hospital, Boston MA 
         details: |
-          Investigated use of chemokine based local immunosuppression in islet transplantation, leading to successful publication. 
+          Developed a chemokine based local immunosuppression approach to islet transplantation in diabetic mouse model, leading to successful publication.
+          - This demonstrated an innovative approach to transplantant immunology where a chemokine that plays a role in protecting cancer cells from immune attack is instead applied to prolong survival of tranplant graft by locally attracting regulatory T cells and repelling cytotoxic T cells.  
           - Present complex multidimensional quantitative data, informing direction of future development.
           - Developed 'Cellbot', an automated cell counting program in Java and ImageJ, speeding data collection and experimental validation.
-
           __Publication:__
              Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression. *American Journal of Transplantation*, 2015. [DOI 10.1111/ajt.13049](https://pubmed.ncbi.nlm.nih.gov/25693473/)
 
@@ -128,7 +130,7 @@ experiences:
         company: Tufts University Eliot-Pearson School, Medford MA 
         details: |
           Managed and maintained IT infrastructure using effective diagnostic and problem solving abilities.
-          - Deploy, configure, and troubleshoot network systems, servers, and software applications to optimize performance and security.
+          - Deployed, configured, and troubleshoot network systems, servers, and software applications to optimize performance and security.
           - Implement IT policies and procedures to enhance system reliability and data integrity, ensuring compliance with industry standards.
           - Collaborate with vendors to promptly resolve technical issues, ensuring minimal disruptions to operations.
           - Document IT processes and configurations, maintaining comprehensive records.
@@ -137,8 +139,8 @@ experiences:
 skills:
     title: Skills
     toolset:
-      - name: Javascript, HTML, CSS
-      - name: Node.js
+      - name: Javascript, Typescript, HTML, CSS
+      - name: Node.js, Express.js
       - name: MongoDB, MySQL, Firebase/Supabase
       - name: Virtualization- Virtualbox, VMWare, Hypervisor, Docker 
       - name: Design- Figma, Ilustrator, Photoshop  
