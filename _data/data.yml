@@ -62,6 +62,8 @@ education:
           Direct O-glycosidation of resin bound thioglycosides. *Organic and Bimolecular Chemistry* DOI: 10.1039/c2ob06883d
 
       - degree: Choate Rosemary Hall
+        university: ''
+        time: ''
         details: |
           American Invitational Mathematics Examination (AIME) Qualifications  
             Acknowledged for problem-solving and mathematical proficiency, demonstrating capability in achieving high-level problem-solving outcomes
@@ -74,7 +76,7 @@ experiences:
         company: LA Film Lab, Los Angeles CA
         details: |
           Building customer and internal facing software for operating a film lab using Angular, Node.JS, and Firebase, working closely with senior developer.
-          - Experience in web performance optimization and scaling, employing techniques such as lazy loading, asynchronous programming, and efficient resource management.
+          - Experience in web performance optimization and scaling, employing techniques such acs lazy loading, asynchronous programming, and efficient resource management.
           - Designed and developed internal facing labeling system using HTML, CSS, and Javascript for customer order management and labeling, improving employee efficiency by 25%. 
 
       - role: Junior Software Developer Volunteer
